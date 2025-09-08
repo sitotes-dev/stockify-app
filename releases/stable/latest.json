@@ -1,7 +1,7 @@
 {
-  "version": "1.18",
+  "version": "1.20",
   "mandatory": true,
-  "apkUrl": "https://raw.githubusercontent.com/sitotes-dev/stockify-app/main/releases/stable/1.18/app-release.apk",
-  "changelogUrl": "https://raw.githubusercontent.com/sitotes-dev/stockify-app/main/releases/stable/1.18/changelog.json",
+  "apkUrl": "https://raw.githubusercontent.com/sitotes-dev/stockify-app/main/releases/stable/1.20/app-release.apk",
+  "changelogUrl": "https://raw.githubusercontent.com/sitotes-dev/stockify-app/main/releases/stable/1.20/changelog.json",
   "deadline": "2025-09-10T20:00:00Z"
 }
