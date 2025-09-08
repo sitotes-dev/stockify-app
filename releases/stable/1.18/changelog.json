@@ -1,0 +1,26 @@
+{
+  "title": "Update 1.18",
+  "date": "2025-09-08",
+  "changes": [
+    "Peningkatan tampilan antarmuka agar lebih modern dan nyaman digunakan",
+    "Mengadopsi Material 3 (Expressive) untuk konsistensi desain aplikasi",
+    "Perbaikan bug pada laporan stok agar data lebih akurat",
+    "Perbaikan bug gambar lama yang masih ter-load",
+    "Perbaikan koneksi aplikasi agar lebih stabil dan mudah terhubung",
+    "Penyempurnaan UI sehingga lebih mudah diakses oleh pengguna",
+    "Penambahan ikon baru pada menu utama",
+    "Optimisasi performa saat membuka daftar barang",
+    "Peningkatan kecepatan pencarian barang",
+    "Form input barang kini lebih responsif",
+    "Pengaturan akun lebih sederhana dan mudah diakses",
+    "Penambahan shortcut untuk tambah barang cepat",
+    "Loading screen lebih ringan dan cepat ditutup",
+    "Perbaikan bug tombol kembali yang tidak berfungsi di beberapa halaman",
+    "Peningkatan keamanan login dengan validasi tambahan",
+    "UI detail barang lebih informatif dengan informasi tambahan"
+  ],
+  "important": [
+    "Mulai versi 1.18, aplikasi hanya mendukung Android 12 (API 31) ke atas.",
+    "Perangkat dengan Android 11 atau lebih rendah tidak lagi mendapat update baru."
+  ]
+}
