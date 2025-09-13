@@ -1,6 +1,6 @@
 {
   "version": "1.23",
-  "mandatory": false,
+  "mandatory": true,
   "apkUrl": "https://raw.githubusercontent.com/sitotes-dev/stockify-app/main/releases/stable/1.23/1.23.apsi",
   "changelogUrl": "https://raw.githubusercontent.com/sitotes-dev/stockify-app/main/releases/stable/1.23/changelog.json",
   "deadline": "2026-09-10T15:00:00Z"
