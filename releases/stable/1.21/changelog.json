@@ -1,5 +1,5 @@
 {
-  "title": "Update 1.20",
+  "title": "Update 1.21",
   "date": "2025-09-08",
   "changes": [
     "Peningkatan tampilan antarmuka agar lebih modern dan nyaman digunakan",
@@ -20,7 +20,7 @@
     "UI detail barang lebih informatif dengan informasi tambahan"
   ],
   "important": [
-    "Mulai versi 1.18, aplikasi hanya mendukung Android 12 (API 31) ke atas.",
+    "Mulai versi 1.21, aplikasi hanya mendukung Android 12 (API 31) ke atas.",
     "Perangkat dengan Android 11 atau lebih rendah tidak lagi mendapat update baru."
   ]
 }
