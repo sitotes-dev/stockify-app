@@ -1,0 +1,12 @@
+{
+  "title": "Update 1.23",
+  "date": "2025-09-14",
+  "changes": [
+    "Peningkatan keamanan",
+    "UI dan desain diperbaiki"
+  ],
+  "important": [
+    "Mulai versi 1.23, aplikasi hanya mendukung Android 12 (API 31) ke atas.",
+    "Android 11 atau lebih rendah tidak lagi mendapat update."
+  ]
+}
